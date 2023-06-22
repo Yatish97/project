@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EzyPassport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0">
+  <PaperSize Width="20" Height="11" />
+  <Spacing X="0.2" Y="0.2" />
+  <Dpi>300</Dpi>
+  <PrintToFile>true</PrintToFile>
+  <Dsn>CustomerDB</Dsn>
+  <Uid />
+  <Pwd />
+</EzyPassport>

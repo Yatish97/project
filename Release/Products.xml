@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EzyPassport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0">
+  <Products>
+    <Product>
+      <ID>1001</ID>
+      <Name>Passport</Name>
+      <Width>2</Width>
+      <Height>3</Height>
+	<Copies>8</Copies>
+    </Product>
+    <Product>
+      <ID>1002</ID>
+      <Name>Passport1</Name>
+      <Width>2.5</Width>
+      <Height>3.2</Height>
+	<Copies>12</Copies>
+    </Product>
+  </Products>
+</EzyPassport>
